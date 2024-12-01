@@ -57,4 +57,4 @@ Our Proposed solution utilizes `Real-Time Web Scraping` and `Natural Language In
 
 ![Veritas_Arch](https://github.com/user-attachments/assets/bc295153-862a-416f-b6e4-fd6cad471c72)
 
-
+Preprint - https://arxiv.org/abs/2410.09455

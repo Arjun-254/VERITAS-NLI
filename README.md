@@ -7,7 +7,7 @@ Our Proposed solution utilizes `Real-Time Web Scraping` and `Natural Language In
 
 ## Visual Abstract
 
-![Prompt_VERITAS](https://github.com/user-attachments/assets/cabd9d42-3d05-4235-86ab-864f332f93e9)
+<img width="1455" alt="Screenshot 2024-12-02 at 4 52 44 PM" src="https://github.com/user-attachments/assets/9c142709-cb4d-4338-934d-dee0ccc8944b">
 
 ## Directory Structure
 

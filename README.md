@@ -1,5 +1,5 @@
 # VERITAS-NLI : Validation and Extraction of Reliable Information Through Automated Scraping and Natural Language Inference
-This repository contains the artifacts for our paper titled `VERITAS-NLI : Validation and Extraction of Reliable Information Through Automated Scraping and Natural Language Inference` 
+This repository contains the artifacts for our paper titled `VERITAS-NLI : Validation and Extraction of Reliable Information Through Automated Scraping and Natural Language Inference`, accepted and published in [EAAI - Engineering Applications of Artificial Intelligence](<https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence>).
 
 Our Proposed solution utilizes `Real-Time Web Scraping` and `Natural Language Inference(NLI)` Models for the task of Fake News Detection :
 - Dynamic web scraping allows for real-time external knowledge retrieval for the fact-checking of headlines.

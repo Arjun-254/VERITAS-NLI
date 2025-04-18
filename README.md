@@ -5,6 +5,18 @@ Our Proposed solution utilizes `Real-Time Web Scraping` and `Natural Language In
 - Dynamic web scraping allows for real-time external knowledge retrieval for the fact-checking of headlines.
 - Natural Language Inference models are used to find support for the claimed headline in the web scraped text, to ascertain the veracity of an input headline
 
+```
+@article{shah2025validation,
+  title={Validation and Extraction of Reliable Information Through Automated Scraping and Natural Language Inference},
+  author={Shah, Arjun and Shah, Hetansh and Bafna, Vedica and Khandor, Charmi and Nair, Sindhu},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={147},
+  pages={110284},
+  year={2025},
+  publisher={Elsevier}
+}
+```
+
 ## Visual Abstract
 
 <img width="1455" alt="Screenshot 2024-12-02 at 4 52 44 PM" src="https://github.com/user-attachments/assets/9c142709-cb4d-4338-934d-dee0ccc8944b">
